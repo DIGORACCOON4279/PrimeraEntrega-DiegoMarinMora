@@ -51,11 +51,24 @@ src/</br>
 |   |-- ItemListContainer/</br>
 |   |   |-- ItemListContainer.jsx</br>
 |   |   |-- ItemListContainer.scss</br>
-|-- scss/</br>
-|   |-- _variables.scss</br>
-|   |-- _mixins.scss</br>
-|   |-- _partials.scss</br>
-|   |-- main.scss</br>
+|   |-- Body/</br>
+|   |   |-- Body.jsx</br>
+|   |   |-- Body.scss</br>
+|   |-- User/</br>
+|   |   |-- User.jsx</br>
+|   |   |-- User.scss</br>
+|   |-- Storage/</br>
+|   |   |-- Storage.jsx</br>
+|   |   |-- Storage.scss</br>
+|   |-- Menu/</br>
+|   |   |-- Menu.jsx</br>
+|   |   |-- Menu.scss</br>
+|   |-- IconsMenu/</br>
+|   |   |-- IconsMenu.jsx</br>
+|   |   |-- IconsMenu.scss</br>
+|   |-- CategorySections/</br>
+|   |   |-- CategorySections.jsx</br>
+|   |   |-- CategorySections.scss</br>
 |-- App.jsx</br>
 |-- index.jsx</br>
 
