@@ -30,7 +30,10 @@ Se realizaran dos preentregas y la entrega final a medida que se vaya realizando
 ![Bootstrap](https://github.com/DIGORACCOON4279/Break-a-Leg/assets/88150970/570d9449-d0dc-4e46-b34c-cae994960cff)Bootstrap (Framework)</br>
 ![Sass](https://github.com/DIGORACCOON4279/Break-a-Leg/assets/88150970/97214254-d103-46e6-a306-8f5c3c10571c)Sass (Preprocesador)</br>
 
-![Figma](https://www.figma.com/proto/uP83VlEVIz4hmSboxjuN2F/Tekny?page-id=2%3A10&type=design&node-id=57-589&viewport=-2255%2C1269%2C0.28&t=2HOa7ebSJPJxV5wp-1&scaling=scale-down&starting-point-node-id=57%3A589&mode=design)
+Aunque no es necesario ni evaluativo, pero realizo un mockup en figma para tener mejor entendimiento de lo que se quiere lograr:</br>
+
+![figma](https://github.com/DIGORACCOON4279/EntregaFinal/assets/88150970/fca318c0-6b7d-4046-b0aa-55a83f0419a3) ![Mockup](https://www.figma.com/proto/uP83VlEVIz4hmSboxjuN2F/Tekny?page-id=2%3A10&type=design&node-id=57-589&viewport=-2255%2C1269%2C0.28&t=2HOa7ebSJPJxV5wp-1&scaling=scale-down&starting-point-node-id=57%3A589&mode=design)</br>
+
 # Desarrollo</br>
 
 En esta primera preentrega se pide realizar tres componentes:</br>
