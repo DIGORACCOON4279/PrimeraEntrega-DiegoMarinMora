@@ -32,7 +32,7 @@ Se realizaran dos preentregas y la entrega final a medida que se vaya realizando
 
 Aunque no es necesario ni evaluativo, pero realizo un mockup en figma para tener mejor entendimiento de lo que se quiere lograr:</br>
 
-![figma](https://github.com/DIGORACCOON4279/EntregaFinal/assets/88150970/fca318c0-6b7d-4046-b0aa-55a83f0419a3) ![Mockup](<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FuP83VlEVIz4hmSboxjuN2F%2FTekny%3Fpage-id%3D2%253A10%26type%3Ddesign%26node-id%3D57-589%26viewport%3D-2255%252C1269%252C0.28%26t%3D2HOa7ebSJPJxV5wp-1%26scaling%3Dscale-down%26starting-point-node-id%3D57%253A589%26mode%3Ddesign" allowfullscreen></iframe>)</br>
+![figma](https://github.com/DIGORACCOON4279/EntregaFinal/assets/88150970/fca318c0-6b7d-4046-b0aa-55a83f0419a3) ![Mockup - Desktop](https://www.figma.com/proto/uP83VlEVIz4hmSboxjuN2F/Tekny?page-id=2%3A10&type=design&node-id=57-589&viewport=-2255%2C1269%2C0.28&t=2HOa7ebSJPJxV5wp-1&scaling=scale-down&starting-point-node-id=57%3A589&mode=design)</br>
 
 # Desarrollo</br>
 
