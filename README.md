@@ -6,7 +6,7 @@
 # Iniciativa</br>
 
 Este proyecto de ecommerce ficticio llamado " Tekni "  --venta de dispositivos electronicos --  fue escogido para trabajar durante la cursada de React. 
-Se realizaran dos preenregas y la entrega final a medida que se vaya realizando las consignas de cada entrega para moldear el proyecto segun los objetivos del curso.</br>
+Se realizaran dos preentregas y la entrega final a medida que se vaya realizando las consignas de cada entrega para moldear el proyecto segun los objetivos del curso.</br>
 
 👉 Herramientas que se utilizaran durante el desarrollo del proyecto: 🛠 </br>
 
@@ -29,6 +29,8 @@ Se realizaran dos preenregas y la entrega final a medida que se vaya realizando 
 ![react](https://github.com/DIGORACCOON4279/PrimeraEntrega-DiegoMarinMora/assets/88150970/af7de6da-ad17-45c7-95a6-3ef1e3c5f730) React (Library)</br>
 ![Bootstrap](https://github.com/DIGORACCOON4279/Break-a-Leg/assets/88150970/570d9449-d0dc-4e46-b34c-cae994960cff)Bootstrap (Framework)</br>
 ![Sass](https://github.com/DIGORACCOON4279/Break-a-Leg/assets/88150970/97214254-d103-46e6-a306-8f5c3c10571c)Sass (Preprocesador)</br>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FuP83VlEVIz4hmSboxjuN2F%2FTekny%3Fpage-id%3D2%253A10%26type%3Ddesign%26node-id%3D57-589%26viewport%3D-2255%252C1269%252C0.28%26t%3D2HOa7ebSJPJxV5wp-1%26scaling%3Dscale-down%26starting-point-node-id%3D57%253A589%26mode%3Ddesign" allowfullscreen></iframe>
 
 # Desarrollo</br>
 
