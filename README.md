@@ -43,37 +43,37 @@ En esta primera preentrega se pide realizar tres componentes:</br>
 ** ✔ --CartWidget</br>
 ** ✔ --ItemListContainer</br>
 
-La estructura a trabajar en los componentes src es crea una carpeta principal llamada components y se devivan los tres componentes antes nombrados con su respectivo archivos files.jsx & files.scss por cada componente.</br>
+La estructura a trabajar en los componentes src es crea una carpeta principal llamada components y se devivan los tres componentes antes nombrados con su respectivo archivos files.jsx & files.css por cada componente.</br>
 
 src/</br>
 |-- components/</br>
 |   |-- NavBar/</br>
 |   |   |-- NavBar.jsx</br>
-|   |   |-- NavBar.scss</br>
+|   |   |-- NavBar.css</br>
 |   |-- CartWidget/</br>
 |   |   |-- CartWidget.jsx</br>
 |   |   |-- CartWidget.scss</br>
 |   |-- ItemListContainer/</br>
 |   |   |-- ItemListContainer.jsx</br>
-|   |   |-- ItemListContainer.scss</br>
+|   |   |-- ItemListContainer.css</br>
 |   |-- Body/</br>
 |   |   |-- Body.jsx</br>
 |   |   |-- Body.scss</br>
 |   |-- User/</br>
 |   |   |-- User.jsx</br>
-|   |   |-- User.scss</br>
+|   |   |-- User.css</br>
 |   |-- Storage/</br>
 |   |   |-- Storage.jsx</br>
-|   |   |-- Storage.scss</br>
+|   |   |-- Storage.css</br>
 |   |-- Menu/</br>
 |   |   |-- Menu.jsx</br>
-|   |   |-- Menu.scss</br>
+|   |   |-- Menu.css</br>
 |   |-- IconsMenu/</br>
 |   |   |-- IconsMenu.jsx</br>
-|   |   |-- IconsMenu.scss</br>
+|   |   |-- IconsMenu.css</br>
 |   |-- CategorySections/</br>
 |   |   |-- CategorySections.jsx</br>
-|   |   |-- CategorySections.scss</br>
+|   |   |-- CategorySections.css</br>
 |-- App.jsx</br>
 |-- index.jsx</br>
 
